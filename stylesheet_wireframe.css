@@ -1,0 +1,80 @@
+
+body {
+	background-color: gray;
+}
+
+.clearfix {
+	overflow: auto;
+}
+
+#wrapper {
+	max-width: 1000px;
+	text-align: center;
+}
+
+
+
+#header {
+	background-color: white;
+	color: gray;
+	padding: 20px;
+	width: 1000px;
+	height: 20px;
+	
+}
+
+#nav {
+	background-color: white;
+	color: gray;
+	padding: 20px;
+	width: 1000px;
+	height: 20px;
+	margin: 20px 0px auto;
+}
+
+#footer {
+	background-color: white;
+	color: gray;
+	padding: 20px;
+	width: 1000px;
+	height: 20px;
+	overflow: auto;
+	margin: 20px 20px 20px 0px;
+	margin-top: 20px;
+}
+
+#aside {
+	float:right;
+	width: 40%;
+	height: 200px;
+	background-color: white;
+	color: gray;
+	
+}
+
+#section {
+	float:left;
+	width: 40%;
+	height: 200px;
+	background-color: white;
+	color: gray;
+}
+
+#article {
+	background-color: gray;
+	color: white;
+}
+
+h1 {
+	background-color: white;
+	color: gray;
+	margin-top: 10px;
+	padding: 2px;
+}
+
+p {
+	background-color: white;
+	color: gray;
+	margin-top: 10px;
+	padding: 2px;
+}
